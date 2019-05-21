@@ -11,7 +11,9 @@ Below are some key things that I learned:
 - Currying is a technique used in functional programming. Currying's namesake is Haskell Curry. It involves turning a function that can take multiple arguments into a series of nesting functions. 
 
 - It is possible to create SVGs in html code. There were some very detailed SVGs shown. I created a rectangle and circle when I got home. I have included images of the code and output of this below. 
-
+		<svg>
+  		</svg>
+        
 ![]({{site.baseurl}}/images/SVGs code.JPG)
 
 ![]({{site.baseurl}}/images/SVGs in browser.JPG)
