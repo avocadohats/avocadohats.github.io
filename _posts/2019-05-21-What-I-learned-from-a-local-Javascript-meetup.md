@@ -12,9 +12,8 @@ Below are some key things that I learned:
 
 - It is possible to create SVGs in html code. There were some very detailed SVGs shown. I created a rectangle and circle when I got home. I have included images of the code and output of this below. 
 
-![Rectangle and circle SVGs code]({{site.baseurl}}/_posts/SVGs code.JPG)
+![]({{site.baseurl}}/images/SVGs code.JPG)
 
-![Rectangle and circle SVGs browser output]({{site.baseurl}}/_posts/SVGs in browser.JPG)
+![]({{site.baseurl}}/images/SVGs in browser.JPG)
 
-I hope to develop my understanding of programming paradigms and SVGs further in the future. 
-
+I hope to develop my understanding of programming paradigms and SVGs further in the future.
