@@ -24,8 +24,6 @@ Below are some key things that I learned:
         </svg>
 </html>
 ```
-        
-![]({{site.baseurl}}/images/SVGs code.JPG)
 
 ![]({{site.baseurl}}/images/SVGs in browser.JPG)
 
