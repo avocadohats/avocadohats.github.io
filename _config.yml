@@ -36,6 +36,9 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
 
+
+theme: jekyll-theme-midnight
+
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
@@ -68,7 +71,6 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
     
-theme: jekyll-theme-midnight
 
 # Set the Sass partials directory, as we're using @imports
 sass:
