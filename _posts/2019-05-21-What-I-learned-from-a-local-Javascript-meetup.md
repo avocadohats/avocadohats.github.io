@@ -18,6 +18,10 @@ Below are some key things that I learned:
         <svg>
                 <rect height="200" width="450" fill="blueviolet" />    
         </svg>
+        
+        <svg>
+                <circle cx="100" cy="100" r="50" fill="blue" />    
+        </svg>
 </html>
 ```
         
